@@ -15,6 +15,9 @@ print the distance
 program ended
 ### PROGRAM:
   ```
+#Program to find the distance between two points.
+#Developed by:mpranathi 
+#RegisterNumber:22005710
 import math as m
 l1=[4,2]
 l2=[10,6]
@@ -28,4 +31,4 @@ print("{:.2f}".format(d))
 
 
 ### RESULT:
-This program is successfull excuted
+This program is successfull excuted.
